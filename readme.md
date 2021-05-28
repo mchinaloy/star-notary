@@ -17,6 +17,20 @@ DSR
 Truffle = 5.0.2 / OpenZepplin = 2.3
 ```
 
+### Running the Application
+1) Change to the app directory:
+```
+cd project_root/app
+```
+2) Run node:
+```
+node run dev
+```
+3) Access the frontend at:
+```
+http://localhost:8080
+```
+
 ### Tools used
 
 - Node
