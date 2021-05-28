@@ -18,15 +18,20 @@ Truffle = 5.0.2 / OpenZepplin = 2.3
 ```
 
 ### Running the Application
-1) Change to the app directory:
+1) Install NPM dependencies:
 ```
-cd project_root/app
+cd project_root
+npm install
 ```
-2) Run node:
+2) Change to the app directory:
+```
+cd app
+```
+3) Run node:
 ```
 node run dev
 ```
-3) Access the frontend at:
+4) Access the frontend at:
 ```
 http://localhost:8080
 ```
